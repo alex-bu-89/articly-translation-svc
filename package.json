@@ -9,7 +9,7 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "serverless-offline": "^6.3.2",
+    "serverless-offline": "^6.4.0",
     "source-map-support": "^0.5.19",
     "superagent": "^5.2.2",
     "snyk": "^1.348.1"
