@@ -12,7 +12,7 @@
     "serverless-offline": "^6.4.0",
     "source-map-support": "^0.5.19",
     "superagent": "^5.3.1",
-    "snyk": "^1.360.0"
+    "snyk": "^1.361.3"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.50",
